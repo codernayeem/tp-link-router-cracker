@@ -1,0 +1,7 @@
+__pycache__/
+.Python
+.python-version
+/build
+/dist
+/target
+/.vscode
